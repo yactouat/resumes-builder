@@ -9,11 +9,12 @@ It's time to job hunt again for you? don't worry we got you covered with the ré
 
 ## prerequisites
 
+- a working Python environment with `pip` installed
 - you'll need a Google account with Google Drive
 - you'll need a GCP project
 
 ## how to use
 
 - follow [these steps](https://python.langchain.com/docs/integrations/tools/google_drive#prerequisites) from 1 to 3 to enable and set up the Google Drive API and a user (you)
-<!-- TODO -->
 - `pip install -r requirements.txt`
+- `python3 app.py`
